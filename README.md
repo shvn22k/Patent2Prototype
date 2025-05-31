@@ -9,8 +9,11 @@
 
 👉 [Click here to watch the pitch + demo »](https://www.loom.com/share/2643a4a66cf8418ea0af8bdbefaf3f0e?sid=fd6aee05-d618-4c5b-892e-7df27cf06726)
 
+[
+  ![Thumbnail](Screenshot 2025-05-31 140815.png)
+]([https://example.com](https://www.loom.com/share/2643a4a66cf8418ea0af8bdbefaf3f0e?sid=fd6aee05-d618-4c5b-892e-7df27cf06726))
 
-[!thumbnail](Screenshot 2025-05-31 140815.png)](https://www.loom.com/share/2643a4a66cf8418ea0af8bdbefaf3f0e?sid=fd6aee05-d618-4c5b-892e-7df27cf06726)
+
 ---
 
 ## 🧩 The Problem
