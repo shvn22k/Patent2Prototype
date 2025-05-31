@@ -10,7 +10,7 @@
 ## 🎥 5-Minute Pitch & Walkthrough
 
 👉 [Click here to watch the pitch + demo »](https://www.loom.com/share/2643a4a66cf8418ea0af8bdbefaf3f0e?sid=fd6aee05-d618-4c5b-892e-7df27cf06726)
-[![Pitch](img.png)](https://www.loom.com/share/2643a4a66cf8418ea0af8bdbefaf3f0e?sid=fd6aee05-d618-4c5b-892e-7df27cf06726)
+[![Pitch](Screenshot 2025-05-31 140815.png)](https://www.loom.com/share/2643a4a66cf8418ea0af8bdbefaf3f0e?sid=fd6aee05-d618-4c5b-892e-7df27cf06726)
 
 
 ---
