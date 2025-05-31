@@ -73,7 +73,7 @@ Our custom LangChain-powered pipeline works in 5 stages:
 
 ## 📸 Demo Snapshot
 
-![demo](https://your-demo-screenshot-link-if-any)
+![demo](https://github.com/user-attachments/assets/b07a713f-6ede-4cd7-82b8-0cbcd55398fe)
 
 ---
 
