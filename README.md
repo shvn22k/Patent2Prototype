@@ -9,7 +9,7 @@
 
 👉 [Click here to watch the pitch + demo »](https://www.loom.com/share/2643a4a66cf8418ea0af8bdbefaf3f0e?sid=fd6aee05-d618-4c5b-892e-7df27cf06726)
 
-![Video](https://www.loom.com/share/2643a4a66cf8418ea0af8bdbefaf3f0e?sid=db05b727-1b83-4d67-9713-0224b3bdbbae)
+![Video](Screenshot 2025-05-31 140815.png)(https://www.loom.com/share/2643a4a66cf8418ea0af8bdbefaf3f0e?sid=db05b727-1b83-4d67-9713-0224b3bdbbae)
 
 
 ---
