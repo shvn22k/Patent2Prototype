@@ -1,6 +1,6 @@
 # 🧠 Patent2Prototype: Turning Patents into 3D Prototypes with AI
 
-![banner]()
+![banner](pt2pr-banner-img.png)
 
 🚀 **Patent2Prototype** is an intelligent pipeline that transforms complex patent documents into accurate, structured 3D prototype instructions — in minutes.
 
